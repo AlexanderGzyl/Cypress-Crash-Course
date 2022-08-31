@@ -1,0 +1,16 @@
+# project 1
+create base url and ignore example tests in cypress.json
+in order to test the applictaion we must select elements first
+key methods: Get, Contains, Child
+test files contain blocks and blocks contain related tests
+blocks are made with context or describe and take a title and a function that executes tests
+getting elements is  an assertion
+we can specify commands to simplify our code and automate repetitive tasks
+**contains only gets one element
+*** keep in mind that the app may chnage in the future and tests should be wrtten
+accordingly with specificity in mind
+
+# project 2
+mock http request to test server/dynamic data
+using intercept and fixtures files
+
